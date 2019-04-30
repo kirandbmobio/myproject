@@ -7,4 +7,4 @@ if(name=='kiran'){
 }else{
 	console.log("this is not kiran");
 }
-this is it;
+
