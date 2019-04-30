@@ -7,4 +7,8 @@ if(name=='kiran'){
 }else{
 	console.log("this is not kiran");
 }
+<<<<<<< HEAD
 this is it;
+=======
+hjkfsdhgkjsdkj
+>>>>>>> parent of 7430d37... remove dummy data
